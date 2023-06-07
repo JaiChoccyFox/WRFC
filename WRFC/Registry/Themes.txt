@@ -1,0 +1,3 @@
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize;REG_DWORD;AppsUseLightTheme;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize;REG_DWORD;EnableTransparency;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize;REG_DWORD;SystemUsesLightTheme;0

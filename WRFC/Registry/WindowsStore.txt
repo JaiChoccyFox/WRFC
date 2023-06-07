@@ -1,0 +1,10 @@
+ADD;HKCU;SOFTWARE\Policies\Microsoft\WindowsStore;REG_DWORD;DisableOSUpgrade;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\WindowsStore;REG_DWORD;RemoveWindowsStore;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\WindowsStore;REG_DWORD;RequirePrivateStoreOnly;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\WindowsStore\WindowsUpdate;REG_DWORD;AutoDownload;5
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsStore;REG_DWORD;AutoDownload;2
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsStore;REG_DWORD;DisableOSUpgrade;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsStore;REG_DWORD;DisableStoreApps;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsStore;REG_DWORD;RemoveWindowsStore;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsStore;REG_DWORD;RequirePrivateStoreOnly;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\LicenseManager;REG_DWORD;Start;4

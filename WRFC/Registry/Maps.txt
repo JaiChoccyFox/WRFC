@@ -1,0 +1,2 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Maps;REG_DWORD;AllowUntriggeredNetworkTrafficOnSettingsPage;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Maps;REG_DWORD;AutoDownloadAndUpdateMapData;0

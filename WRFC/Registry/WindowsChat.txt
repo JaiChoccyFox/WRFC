@@ -1,0 +1,2 @@
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Communications;REG_DWORD;ConfigureChatAutoInstall;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Chat;REG_DWORD;ChatIcon;3

@@ -1,0 +1,3 @@
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\ReserveManager;REG_DWORD;MiscPolicyInfo;2
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\ReserveManager;REG_DWORD;PassedPolicy;0
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\ReserveManager;REG_DWORD;ShippedWithReserves;0

@@ -1,0 +1,3 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Device Metadata;REG_DWORD;PreventDeviceMetadataFromNetwork;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\DriverSearching;REG_DWORD;DontSearchWindowsUpdate;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_DWORD;ExcludeWUDriversInQualityUpdate;1

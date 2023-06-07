@@ -1,0 +1,14 @@
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;ConfigureWindowsSpotlight;2
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableCloudOptimizedContent;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableSpotlightCollectionOnDesktop;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableTailoredExperiencesWithDiagnosticData;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableThirdPartySuggestions;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableWindowsSpotlightFeatures;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableWindowsSpotlightOnActionCenter;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableWindowsSpotlightOnSettings;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableWindowsSpotlightWindowsWelcomeExperience;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\CloudContent;REG_DWORD;IncludeEnterpriseSpotlight;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableCloudOptimizedContent;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableConsumerAccountStateContent;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableSoftLanding;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CloudContent;REG_DWORD;DisableWindowsConsumerFeatures;1

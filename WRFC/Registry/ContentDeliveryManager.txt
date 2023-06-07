@@ -1,0 +1,15 @@
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;ContentDeliveryAllowed;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;OemPreInstalledAppsEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;PreInstalledAppsEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;PreInstalledAppsEverEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;RotatingLockScreenOverlayEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SilentInstalledAppsEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SoftLandingEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-310093Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-338387Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-338388Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-338389Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-338393Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-353694Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SubscribedContent-353696Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;REG_DWORD;SystemPaneSuggestionsEnabled;0

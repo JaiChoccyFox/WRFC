@@ -1,0 +1,5 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\PreviewBuilds;REG_DWORD;AllowBuildPreview;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\PreviewBuilds;REG_DWORD;EnableConfigFlighting;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\PreviewBuilds;REG_DWORD;EnableExperimentation;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\PreviewBuilds;REG_DWORD;HideInsiderPage;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\wisvc;REG_DWORD;Start;4

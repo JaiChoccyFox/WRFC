@@ -1,0 +1,4 @@
+ADD;HKLM\SOFTWARE;Microsoft\OneDrive;REG_DWORD;PreventNetworkTrafficPreUserSignIn;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\OneDrive;REG_DWORD;DisableFileSync;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\OneDrive;REG_DWORD;DisableFileSyncNGSC;1
+DELVAL;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Run;OneDriveSetup

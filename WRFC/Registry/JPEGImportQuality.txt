@@ -1,0 +1,1 @@
+ADD;HKCU;Control Panel\Desktop;REG_DWORD;JPEGImportQuality;100

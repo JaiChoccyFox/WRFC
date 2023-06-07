@@ -1,0 +1,2 @@
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Control Panel\International;REG_DWORD;RestrictLanguagePacksAndFeaturesInstall;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Control Panel\International;REG_DWORD;RestrictLanguagePacksAndFeaturesInstall;1

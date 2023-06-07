@@ -1,0 +1,2 @@
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Power;REG_DWORD;HibernateEnabled;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Session Manager\Power;REG_DWORD;HiberbootEnabled;0

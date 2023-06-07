@@ -1,0 +1,1 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\DeliveryOptimization;REG_DWORD;DODownloadMode;99

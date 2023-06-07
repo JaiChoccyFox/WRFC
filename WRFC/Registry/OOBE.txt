@@ -1,0 +1,2 @@
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\OOBE;REG_DWORD;BypassNRO;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\OOBE;REG_DWORD;DisablePrivacyExperience;1

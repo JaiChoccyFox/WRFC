@@ -1,0 +1,6 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_DWORD;DisableWindowsUpdateAccess;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_DWORD;DoNotConnectToWindowsUpdateInternetLocations;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_SZ;UpdateServiceUrlAlternate; 
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_SZ;WUServer; 
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate;REG_SZ;WUStatusServer; 
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\WindowsUpdate\AU;REG_DWORD;UseWUServer;1

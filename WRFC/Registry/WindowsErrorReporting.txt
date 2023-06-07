@@ -1,0 +1,7 @@
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;Disabled;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;DontSendAdditionalData;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;LoggingDisabled;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;Disabled;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;DontSendAdditionalData;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Error Reporting;REG_DWORD;LoggingDisabled;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\WerSvc;REG_DWORD;Start;4

@@ -1,0 +1,2 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows NT\CurrentVersion\Software Protection Platform;REG_DWORD;NoAcquireGT;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows NT\CurrentVersion\Software Protection Platform;REG_DWORD;NoGenTicket;1

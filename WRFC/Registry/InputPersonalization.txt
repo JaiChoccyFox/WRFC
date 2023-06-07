@@ -1,0 +1,6 @@
+ADD;HKCU;SOFTWARE\Microsoft\InputPersonalization;REG_DWORD;RestrictImplicitInkCollection;1
+ADD;HKCU;SOFTWARE\Microsoft\InputPersonalization;REG_DWORD;RestrictImplicitTextCollection;1
+ADD;HKCU;SOFTWARE\Microsoft\InputPersonalization\TrainedDataStore;REG_DWORD;HarvestContacts;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\InputPersonalization;REG_DWORD;AllowInputPersonalization;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\InputPersonalization;REG_DWORD;RestrictImplicitInkCollection;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\InputPersonalization;REG_DWORD;RestrictImplicitTextCollection;1

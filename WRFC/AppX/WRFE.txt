@@ -1,0 +1,13 @@
+*Disney*
+*Microsoft.549981C3F5F10*
+*Microsoft.BingFinance*
+*Microsoft.BingNews*
+*Microsoft.BingSports*
+*Microsoft.BingWeather*
+*Microsoft.MicrosoftOfficeHub*
+*Microsoft.MicrosoftStickyNotes*
+*Microsoft.Office.OneNote*
+*Microsoft.Office.Sway*
+*Microsoft.SkypeApp*
+*Microsoft.XboxApp*
+*Twitter*

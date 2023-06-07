@@ -1,0 +1,3 @@
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\LocationAndSensors;REG_DWORD;DisableLocation;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\LocationAndSensors;REG_DWORD;DisableLocation;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\LocationAndSensors;REG_DWORD;DisableWindowsLocationProvider;1

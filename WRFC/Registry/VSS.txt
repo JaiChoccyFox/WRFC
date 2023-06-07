@@ -1,0 +1,1 @@
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\VSS;REG_DWORD;Start;4

@@ -1,0 +1,7 @@
+ADD;HKCU;Control Panel\Accessibility\HighContrast;REG_DWORD;Flags;0
+ADD;HKCU;Control Panel\Accessibility\Keyboard Response;REG_DWORD;Flags;0
+ADD;HKCU;Control Panel\Accessibility\MouseKeys;REG_DWORD;Flags;0
+ADD;HKCU;Control Panel\Accessibility\StickyKeys;REG_DWORD;Flags;0
+ADD;HKCU;Control Panel\Accessibility\ToggleKeys;REG_DWORD;Flags;0
+ADD;HKCU;SOFTWARE\Microsoft\Ease of Access;REG_DWORD;selfscan;0
+ADD;HKCU;SOFTWARE\Microsoft\Ease of Access;REG_DWORD;selfvoice;0

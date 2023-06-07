@@ -1,0 +1,1 @@
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\TimeZoneInformation;REG_DWORD;RealTimeIsUniversal;1

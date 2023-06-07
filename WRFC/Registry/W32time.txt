@@ -1,0 +1,2 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\W32time\TimeProviders\NtpClient;REG_DWORD;Enabled;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\W32Time\Parameters;REG_SZ;Type;NoSync

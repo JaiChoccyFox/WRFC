@@ -1,0 +1,170 @@
+ADD;HKCU;SOFTWARE\Microsoft\Input\TIPC;REG_DWORD;Enabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Internet Explorer\VersionManager;REG_DWORD;DownloadVersionList;0
+ADD;HKCU;SOFTWARE\Microsoft\Messaging;REG_DWORD;CloudServiceSyncEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Personalization\Settings;REG_DWORD;AcceptedPrivacyPolicy;0
+ADD;HKCU;SOFTWARE\Microsoft\Siuf\Rules;REG_DWORD;NumberOfSIUFInPeriod;0
+ADD;HKCU;SOFTWARE\Microsoft\Siuf\Rules;REG_DWORD;PeriodInNanoSeconds;0
+ADD;HKCU;SOFTWARE\Microsoft\Speech_OneCore\Settings\OnlineSpeechPrivacy;REG_DWORD;HasAccepted;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost;REG_DWORD;EnableWebContentEvaluation;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\AppHost;REG_DWORD;PreventOverride;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications;REG_DWORD;GlobalUserDisabled;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Diagnostics\DiagTrack;REG_DWORD;ShowedToastAtLevel;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer;REG_DWORD;ShowFrequent;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer;REG_DWORD;ShowRecent;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;DisablePreviewDesktop;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;DisallowShaking;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;DontUsePowerShellOnWinX;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;Hidden;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;HideFileExt;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;LaunchTo;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;MultiTaskingAltTabFilter;3
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;SharingWizardOn;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;ShowSyncProviderNotifications;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;Start_TrackDocs;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced;REG_DWORD;Start_TrackProgs;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\OperationStatusManager;REG_DWORD;EnthusiastMode;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Feeds;REG_DWORD;ShellFeedsTaskbarViewMode;2
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\PenWorkspace;REG_DWORD;PenWorkspaceAppSuggestionsEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;ClearRecentDocsOnExit;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoInstrumentation;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoInternetOpenWith;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoLowDiskSpaceChecks;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoPinningStoreToTaskbar;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoRecentDocsHistory;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoRemoteDestinations;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoResolveSearch;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoResolveTrack;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Privacy;REG_DWORD;TailoredExperiencesWithDiagnosticDataEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Search;REG_DWORD;BackgroundAppGlobalToggle;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Search;REG_DWORD;BingSearchEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\Search;REG_DWORD;SearchboxTaskbarMode;1
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\SearchSettings;REG_DWORD;IsAADCloudSearchEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\SearchSettings;REG_DWORD;IsDeviceSearchHistoryEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\SearchSettings;REG_DWORD;IsMSACloudSearchEnabled;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\SearchSettings;REG_DWORD;SafeSearchMode;0
+ADD;HKCU;SOFTWARE\Microsoft\Windows\CurrentVersion\UserProfileEngagement;REG_DWORD;ScoobeSystemSettingEnabled;0
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Assistance\Client\1.0;REG_DWORD;NoExplicitFeedback;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Assistance\Client\1.0;REG_DWORD;NoImplicitFeedback;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Assistance\Client\1.0;REG_DWORD;NoOnlineAssist;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Internet Explorer\Control Panel;REG_DWORD;HomePage;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Internet Explorer\Feeds;REG_DWORD;BackgroundSyncStatus;0
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Internet Explorer\Main;REG_DWORD;DisableFirstRunCustomize;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Internet Explorer\Main;REG_SZ;Start Page;about:blank
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Internet Explorer\TabbedBrowsing;REG_DWORD;NewTabPageShow;0
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Messenger\Client;REG_DWORD;CEIP;2
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows NT\Terminal Services;REG_DWORD;AutoSubscription;0
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Explorer;REG_DWORD;DisableSearchBoxSuggestions;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Explorer;REG_DWORD;HideRecentlyAddedApps;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Explorer;REG_DWORD;NoUseStoreOpenWith;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\Explorer;REG_DWORD;NoWindowMinimizingShortcuts;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\HandwritingErrorReports;REG_DWORD;PreventHandwritingErrorReports;1
+ADD;HKCU;SOFTWARE\Policies\Microsoft\Windows\TabletPC;REG_DWORD;PreventHandwritingDataSharing;1
+ADD;HKLM\SOFTWARE;Microsoft\EdgeUpdate;REG_DWORD;DoNotUpdateToEdgeWithChromium;1
+ADD;HKLM\SOFTWARE;Microsoft\LexiconUpdate\loc_0804;REG_DWORD;HapDownloadEnabled;0
+ADD;HKLM\SOFTWARE;Microsoft\WcmSvc\wifinetworkmanager\config;REG_DWORD;AutoConnectAllowedOEM;0
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\AdvertisingInfo;REG_DWORD;Enabled;0
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Explorer;REG_SZ;SmartScreenEnabled;Off
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;AllowOnlineTips;0
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;HideSCAMeetNow;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoAutorun;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoRecentDocsHistory;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;REG_DWORD;NoStartMenuMFUprogramsList;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;REG_DWORD;DisableAutomaticRestartSignOn;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;REG_DWORD;MSAOptional;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;REG_DWORD;NoConnectedUser;1
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;REG_DWORD;PromptOnSecureDesktop;0
+ADD;HKLM\SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\TextInput;REG_DWORD;AllowLinguisticDataCollection;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\AppV\CEIP;REG_DWORD;CEIPEnable;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;AutofillAddressEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;AutofillCreditCardEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;ConfigureDoNotTrack;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;DefaultSearchProviderEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;HideFirstRunExperience;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;PasswordManagerEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;RestoreOnStartup;5
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;SearchSuggestEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_DWORD;SmartScreenEnabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge;REG_SZ;NewTabPageLocation;about:blank
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge\EdgeUpdate;REG_DWORD;AutoUpdateCheckPeriodMinutes;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge\EdgeUpdate;REG_DWORD;ExperimentationAndConfigurationServiceControl;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge\EdgeUpdate;REG_DWORD;UpdateDefault;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Edge\RestoreOnStartupURLs;REG_SZ;1;about:blank
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer;REG_DWORD;AllowServicePoweredQSA;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer\BrowserEmulation;REG_DWORD;DisableSiteListEditing;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer\Feeds;REG_DWORD;BackgroundSyncStatus;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer\FlipAhead;REG_DWORD;Enabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer\PhishingFilter;REG_DWORD;EnabledV9;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Internet Explorer\Suggested Sites;REG_DWORD;Enabled;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Messenger\Client;REG_DWORD;CEIP;2
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftAccount;REG_DWORD;DisableUserAuth;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\BooksLibrary;REG_DWORD;AllowConfigurationUpdateForBooksLibrary;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\BrowserEmulation;REG_DWORD;MSCompatibilityMode;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Internet Settings;REG_SZ;ProvisionedHomePages;<<about:blank>>
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Main;REG_DWORD;AllowPrelaunch;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Main;REG_DWORD;DoNotTrack;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Main;REG_DWORD;PreventFirstRunPage;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Main;REG_SZ;FormSuggest Passwords;No
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\Main;REG_SZ;Use FormSuggest;No
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\PhishingFilter;REG_DWORD;EnabledV9;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\SearchScopes;REG_DWORD;ShowSearchSuggestionsGlobal;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\ServiceUI;REG_DWORD;AllowWebContentOnNewTabPage;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\ServiceUI;REG_DWORD;ShowOneBox;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MicrosoftEdge\TabPreloader;REG_DWORD;AllowTabPreloading;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\MRT;REG_DWORD;DontReportInfectionInformation;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\PCHealth\ErrorReporting;REG_DWORD;DoReport;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Speech;REG_DWORD;AllowSpeechModelUpdate;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\SQMClient\Windows;REG_DWORD;CEIPEnable;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Reporting;REG_DWORD;DisableEnhancedNotifications;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Signature Updates;REG_SZ;FallbackOrder;FileShares
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\SmartScreen;REG_DWORD;ConfigureAppInstallControlEnabled;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\SmartScreen;REG_SZ;ConfigureAppInstallControl;Anywhere
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Spynet;REG_DWORD;SpyNetReporting;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Spynet;REG_DWORD;SubmitSamplesConsent;2
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows Mail;REG_DWORD;ManualLaunchAllowed;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows NT\DNSClient;REG_DWORD;DisableSmartNameResolution;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AdvertisingInfo;REG_DWORD;DisabledByGroupPolicy;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;AITEnable;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;AllowTelemetry;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;DisableEngine;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;DisableInventory;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;DisablePCA;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\AppCompat;REG_DWORD;DisableUAR;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CurrentVersion\Explorer\AutoComplete;REG_SZ;AutoSuggest;no
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\CurrentVersion\PushNotifications;REG_DWORD;NoCloudApplicationNotification;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Explorer;REG_DWORD;HideRecentlyAddedApps;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Explorer;REG_DWORD;NoUseStoreOpenWith;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Explorer;REG_DWORD;ShowOrHideMostUsedApps;2
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\HandwritingErrorReports;REG_DWORD;PreventHandwritingErrorReports;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\LanmanWorkstation;REG_DWORD;AllowInsecureGuestAuth;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Messaging;REG_DWORD;AllowMessageSync;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Personalization;REG_DWORD;NoLockScreen;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Personalization;REG_DWORD;NoLockScreenCamera;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\StorageHealth;REG_DWORD;AllowDiskHealthModelUpdates;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;AllowClipboardHistory;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;AllowCrossDeviceClipboard;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;DisableAcrylicBackgroundOnLogon;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;EnableActivityFeed;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;EnableAppUriHandlers;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;EnableCdp;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;EnableFontProviders;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;EnableSmartScreen;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;PublishUserActivities;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\System;REG_DWORD;UploadUserActivities;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\TabletPC;REG_DWORD;PreventHandwritingDataSharing;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\TCPIP\v6Transition;REG_SZ;Teredo_State;Disabled
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Feeds;REG_DWORD;EnableFeeds;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WindowsInkWorkspace;REG_DWORD;AllowSuggestedAppsInWindowsInkWorkspace;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\WMDRM;REG_DWORD;DisableOnline;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Diagnostics\Performance;REG_DWORD;DisableDiagnosticTracing;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Lsa;REG_DWORD;RestrictAnonymous;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Lsa;REG_DWORD;RestrictAnonymousSAM;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Remote Assistance;REG_DWORD;fAllowFullControl;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\Remote Assistance;REG_DWORD;fAllowToGetHelp;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\cloudidsvc;REG_DWORD;Start;4
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\DiagTrack;REG_DWORD;Start;4
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\Dnscache\Parameters;REG_DWORD;DisableParallelAandAAAA;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\LanManServer\Parameters;REG_DWORD;RestrictNullSessAccess;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\LanmanWorkstation\Parameters;REG_DWORD;DisableBandwidthThrottling;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\wlidsvc;REG_DWORD;Start;4
+DELVAL;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Signature Updates;DefinitionUpdateFileSharesSources
+DELVAL;HKLM\SOFTWARE;Policies\Microsoft\Windows Defender\Updates;named

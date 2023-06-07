@@ -1,0 +1,7 @@
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;AutoReboot;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;CrashDumpEnabled;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;DisableEmoticon;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;DisplayParameters;1
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;EnableLogFile;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl;REG_DWORD;LogEvent;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Control\CrashControl\StorageTelemetry;REG_DWORD;DeviceDumpEnabled;0

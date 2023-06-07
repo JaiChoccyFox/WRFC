@@ -1,0 +1,10 @@
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowCloudSearch;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowCortana;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowCortanaAboveLock;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowCortanaInAAD;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowCortanaInAADPathOOBE;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;AllowSearchToUseLocation;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;ConnectedSearchUseWeb;0
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;DisableWebSearch;1
+ADD;HKLM\SOFTWARE;Policies\Microsoft\Windows\Windows Search;REG_DWORD;EnableDynamicContentInWSB;0
+ADD;HKLM\SYSTEM\CurrentControlSet;Services\WSearch;REG_DWORD;Start;4
